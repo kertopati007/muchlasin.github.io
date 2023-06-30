@@ -1,0 +1,14 @@
+
+.content {
+    max-width: 800px;
+    /* margin-top: 15px; */
+    margin: auto;
+    /* margin-left: 500px; */
+    height: auto;
+    /* background-color: aqua; */
+    text-align: justify;
+}
+
+.content p {
+    margin-top: 10px;
+}
